@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maytha
 ============================================================================================================================================
 
-Software Engineer
+Software and System Engineer
 -----------------
 
-VBA, Python for Tool implementation
+VBA, Python for Tool Implementation
 
 SQL with PostgreSQL for database design
 
-Linux, Shell, Bash for Server configuration
+Linux, Shell, and Bash for Server configuration
 
 C/C# for Embedded Software
 
